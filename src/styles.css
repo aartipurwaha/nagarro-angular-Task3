@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  font-family: 'Lucida Grande', tahoma,verdana,arial,sans-serif;
+  line-height: 1.28;
+}
+
+.bolder {
+  font-family: 'Open Sans',sans-serif;
+  text-rendering:optimizelegibility;
+  color:#333;
+}
+
